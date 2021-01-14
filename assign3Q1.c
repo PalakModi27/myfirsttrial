@@ -1,4 +1,5 @@
 //WAP for any character entered through keyboard,to check whether it is capital,small letter,digit or special symbol
+//my first trial
 #include<stdio.h>
 int main()
 {
